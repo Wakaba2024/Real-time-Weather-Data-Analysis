@@ -1,2 +1,2 @@
-# Real-time-Weather-Data-Analysis
-Real-time Weather Data Analysis and Forecasting for Kenyan Cities
+Problem Statement: Collect weather data from www.weatherapi.com and openweathermap.org/api for different regions in Kenya, store it in a database of your choice (relational or non-relational), and analyze weather patterns using Python.
+The goal is to derive insights into temperature trends, rainfall patterns, and other weather variables across different regions. These insights can help users make informed decisions for weather-sensitive activities, such as agriculture, tourism, and outdoor events.
