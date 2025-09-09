@@ -17,6 +17,8 @@
 This project collects and analyzes weather data for major Kenyan cities — Nairobi, Mombasa, Kisumu, and Eldoret — using APIs and Python-based data analysis.
 The goal is to uncover patterns in temperature, rainfall, humidity, wind speed, and cloud cover that can support decision-making in agriculture, tourism, outdoor event planning, public health, and urban development.
 
+Data is collected via WeatherAPI  and OpenWeatherMap, then analyzed with Python.
+
 ------
 
 ## 2. 🎯 Problem Statement
@@ -34,7 +36,7 @@ We aim to:
 
  ------
 
-## 3. 🔬 Key Insights
+## 3. 🔬 Key Insights and Results
 
 Based on the analysis
 
@@ -73,17 +75,35 @@ Wind
 Cloud Cover
 
 - Mombasa has more consistent cloud cover, Kisumu more variability.
-  
+
+📌 These insights can improve agricultural planning, tourism marketing, and event scheduling in Kenya.
 ----
 
 ## 4.  📊 Applications
 
 1. 🌾 Agriculture: Crop and livestock planning, irrigation strategies.
 
-2. 🏖️ Tourism: Seasonal activity promotion (e.g., beach tourism in Mombasa, safaris in Nairobi).
+2. 🏖️ Tourism: Seasonal activity promotion (e.g., beach tourism in Mombasa, safaris in Nairobi or its outskirts).
 
 3. 🎉 Event Planning: Schedule outdoor events in dry seasons or cooler times of day.
 
 4. 🏥 Public Health: Monitor extreme heat/humidity risks.
 
 5. ⚡ Renewable Energy: Wind and solar project feasibility.
+
+----
+
+## 5. ⚙️ Installation
+
+Clone the repository and install dependencies:
+
+````
+git clone https code
+````
+>- cd to the project folder
+````
+pip install -r requirements.txt
+````
+----
+## 6. 📖 Usage
+Run the Jupyter Notebook file
